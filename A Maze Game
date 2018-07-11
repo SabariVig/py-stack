@@ -2,6 +2,7 @@
 #You Need TO Go To Garden To Win  The GAME
 #Grab Items Along The Way
 from termcolor import colored
+
 item=[]
 def instruction():
   print("1.MOVE \n2.GRAB ITEM \n3.EXIT GAME")
