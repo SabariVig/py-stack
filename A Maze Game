@@ -1,63 +1,6 @@
 #Welcome To My Maze Game 
 #You Need TO Go To Garden To Win  The GAME
 #Grab Items Along The Way
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 from termcolor import colored
 item=[]
 def instruction():
