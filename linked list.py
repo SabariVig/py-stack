@@ -72,6 +72,6 @@ ll.display()
 ll.search(2)
 ll.search(7)
 
-ll.modify(5,2)
+# ll.modify(5,2)
 
 ll.display()

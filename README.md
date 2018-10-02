@@ -8,5 +8,8 @@
   +  03
 # TODO
 - [x] Mumbling
-- [] Pyramid
-- [] Pillar Problem
+- [ ] Pyramid
+- [X] Pillar Problem
+- [ ] Aeroplane Seating
+- [ ] Problem Set 5
+- [ ] Problem Set 6
