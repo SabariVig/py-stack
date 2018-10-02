@@ -1,13 +1,10 @@
 class node:
-    def __init__(self,data=None,link=None):
+    def __init__(self,data=None):
         self.data=data
-        self.link=link
-    def __str__(self):
-        return str(self.data)
-    def __repr__(self):
-            return str(self.data)
-    
-
+        self.next=None
+class linkedlist:
+    def __init__(self):
+        pass
 
 node1=node(12)
 print(node1)
